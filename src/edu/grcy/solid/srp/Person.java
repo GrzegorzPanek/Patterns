@@ -1,6 +1,6 @@
 package edu.grcy.solid.srp;
 
-public class Person {
+public class  Person {
     private String name;
     private String surname;
     private int age;

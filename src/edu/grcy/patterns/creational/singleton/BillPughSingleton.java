@@ -3,7 +3,7 @@ package edu.grcy.patterns.creational.singleton;
 public class BillPughSingleton {
 
 	private BillPughSingleton() {
-		System.out.println("Object initialisation");
+		System.out.println("House initialisation");
 	}
 
 	private static class SingletonHelper {
